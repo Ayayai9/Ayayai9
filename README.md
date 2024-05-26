@@ -1,3 +1,4 @@
+![banner-image](/images/cypch.jpg)
 # Profile 
 
 **`CS Student at RMIT`**
