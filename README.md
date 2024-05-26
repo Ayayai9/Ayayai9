@@ -2,7 +2,7 @@
 
 **`CS Student at RMIT`**
 
-Documentation of my coding projects public and private :) 
+Documentation of future coding projects public and private :) 
 
 ---
 
