@@ -1,7 +1,6 @@
 ![banner-image](/images/cypch.jpg)
 
 **`CS Student at RMIT`**
-
 ---
 
 ### Languages and Tools
