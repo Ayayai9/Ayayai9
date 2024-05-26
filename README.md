@@ -1,6 +1,6 @@
 # Profile 
 
-**CS Student at RMIT**
+**`CS Student at RMIT`**
 
 Documentation of my coding projects public and private :) 
 
