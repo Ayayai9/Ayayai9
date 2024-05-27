@@ -16,8 +16,6 @@
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayayai9&show_icons=true&theme=shadow_blue)
-<br/>
-<br/>
 
 <sub><strong>Songs:</strong></sub>
 - [Stabilisers For Big Boys](https://soundcloud.com/user-73551862/stabilisers-for-big-boys-1) <sub>by Panchiko </sub>
