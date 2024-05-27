@@ -13,5 +13,14 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayayai9&show_icons=true&theme=shadow_blue)
+<br/>
+<br/>
+
+<sub><strong>Songs:</strong></sub>
+- [Stabilisers For Big Boys](https://soundcloud.com/user-73551862/stabilisers-for-big-boys-1) <sub>by Panchiko </sub>
+- [Letting Go, Carry Us Away](https://soundcloud.com/user-22222222222222222/letting-go-carry-us-away) <sub>by User2222</sub>
+- [Cage Girl](https://soundcloud.com/janeremover/cage-girl) <sub>by Jane Remover</sub>
+- [ugh im so tired](https://soundcloud.com/lor2mg/ugh-im-so-tired) <sub>by Lor2mg</sub>
