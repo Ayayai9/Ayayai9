@@ -24,6 +24,7 @@
 **Tools**<br>
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)&nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 
 <sub><strong>Songs:</strong></sub>
