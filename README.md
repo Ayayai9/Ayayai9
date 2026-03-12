@@ -27,7 +27,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 
-<sub><strong>Songs:</strong></sub>
+<sub><strong>About me:</strong></sub>
+- <sub>I have a cat and a dog </sub>
+- <sub>I enjoy backend web development</sub>
 - [Stabilisers For Big Boys](https://soundcloud.com/user-73551862/stabilisers-for-big-boys-1) <sub>by Panchiko </sub>
-- [Cage Girl](https://soundcloud.com/janeremover/cage-girl) <sub>by Jane Remover</sub>
-- [ugh im so tired](https://soundcloud.com/lor2mg/ugh-im-so-tired) <sub>by Lor2mg</sub>
