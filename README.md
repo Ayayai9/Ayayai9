@@ -28,6 +28,5 @@
 
 
 <sub><strong>About me:</strong></sub>
-- I have a cat and a dog
 - I enjoy backend web development
 - [Stabilisers For Big Boys](https://soundcloud.com/user-73551862/stabilisers-for-big-boys-1) <sub>by Panchiko </sub>
